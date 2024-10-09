@@ -1,0 +1,2 @@
+final datatype CONSTANTNAME = value;
+//final是命名常量的关键字，常量必须在同一条语句中声明和赋值
